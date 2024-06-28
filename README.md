@@ -1,4 +1,4 @@
-# telecom-hypothesis-testing
+# Telecom Hypothesis Testing
 Studying the behavior of users of a telecom service, and testing various hypotheses
 
 ## Project Goal
